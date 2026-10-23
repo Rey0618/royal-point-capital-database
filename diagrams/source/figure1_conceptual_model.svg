@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2580" height="2020" viewBox="0 70 1290 1010">
+<rect y="70" width="1290" height="1080" fill="#FFFFFF"/>
+<line x1="290.0" y1="200.0" x2="520.0" y2="200.0" stroke="#222222" stroke-width="3"/>
+<text x="334.0" y="191.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1..*</text>
+<text x="476.0" y="191.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1..*</text>
+<rect x="381.0" y="188.0" width="48" height="24" fill="#FFFFFF"/>
+<text x="405.0" y="205.0" font-size="15" font-style="italic" fill="#111" text-anchor="middle" font-family="Helvetica, Arial">owns</text>
+<text x="405.0" y="232.0" font-size="12.5" fill="#444444" text-anchor="middle" font-family="Helvetica, Arial">many-to-many</text>
+<text x="405.0" y="249.0" font-size="12.5" fill="#444444" text-anchor="middle" font-family="Helvetica, Arial">carries: ownership %, added date</text>
+<line x1="1000.0" y1="208.1" x2="770.0" y2="202.9" stroke="#222222" stroke-width="1.8"/>
+<text x="956.3" y="198.1" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="814.3" y="194.9" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<rect x="849.0" y="193.5" width="72" height="24" fill="#FFFFFF"/>
+<text x="885.0" y="210.5" font-size="15" font-style="italic" fill="#111" text-anchor="middle" font-family="Helvetica, Arial">manages</text>
+<line x1="165.0" y1="300.0" x2="165.0" y2="500.0" stroke="#222222" stroke-width="1.8"/>
+<text x="179.0" y="349.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="179.0" y="461.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<rect x="137.0" y="388.0" width="56" height="24" fill="#FFFFFF"/>
+<text x="165.0" y="405.0" font-size="15" font-style="italic" fill="#111" text-anchor="middle" font-family="Helvetica, Arial">makes</text>
+<line x1="520.0" y1="295.6" x2="252.6" y2="500.0" stroke="#222222" stroke-width="1.8"/>
+<text x="476.5" y="316.2" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="279.1" y="467.2" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<rect x="346.3" y="385.8" width="80" height="24" fill="#FFFFFF"/>
+<text x="386.3" y="402.8" font-size="15" font-style="italic" fill="#111" text-anchor="middle" font-family="Helvetica, Arial">receives</text>
+<line x1="645.0" y1="300.0" x2="645.0" y2="500.0" stroke="#222222" stroke-width="1.8"/>
+<text x="659.0" y="349.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="659.0" y="461.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<rect x="609.0" y="388.0" width="72" height="24" fill="#FFFFFF"/>
+<text x="645.0" y="405.0" font-size="15" font-style="italic" fill="#111" text-anchor="middle" font-family="Helvetica, Arial">records</text>
+<line x1="475.6" y1="840.0" x2="574.4" y2="700.0" stroke="#222222" stroke-width="1.8"/>
+<text x="479.1" y="815.7" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="548.0" y="718.2" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<rect x="469.0" y="758.0" width="112" height="24" fill="#FFFFFF"/>
+<text x="525.0" y="775.0" font-size="15" font-style="italic" fill="#111" text-anchor="middle" font-family="Helvetica, Arial">is traded in</text>
+<line x1="826.1" y1="840.0" x2="720.5" y2="700.0" stroke="#222222" stroke-width="1.8"/>
+<text x="821.6" y="815.8" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="747.3" y="717.3" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<rect x="733.3" y="758.0" width="80" height="24" fill="#FFFFFF"/>
+<text x="773.3" y="775.0" font-size="15" font-style="italic" fill="#111" text-anchor="middle" font-family="Helvetica, Arial">executes</text>
+<rect x="40" y="100" width="250" height="200" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M40 108 Q40 100 48 100 L282 100 Q290 100 290 108 L290 136 L40 136 Z" fill="#222222"/>
+<text x="165.0" y="124" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">CLIENT</text>
+<text x="50" y="157" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">ID</text>
+<text x="98" y="157" font-size="14" fill="#111" font-family="Helvetica, Arial">client_id</text>
+<rect x="41" y="162" width="248" height="22" fill="#EFEFEF"/>
+<text x="98" y="179" font-size="14" fill="#111" font-family="Helvetica, Arial">first_name</text>
+<text x="98" y="201" font-size="14" fill="#111" font-family="Helvetica, Arial">last_name</text>
+<rect x="41" y="206" width="248" height="22" fill="#EFEFEF"/>
+<text x="98" y="223" font-size="14" fill="#111" font-family="Helvetica, Arial">email</text>
+<text x="98" y="245" font-size="14" fill="#111" font-family="Helvetica, Arial">date_of_birth</text>
+<rect x="41" y="250" width="248" height="22" fill="#EFEFEF"/>
+<text x="98" y="267" font-size="14" fill="#111" font-family="Helvetica, Arial">risk_profile</text>
+<text x="98" y="289" font-size="14" fill="#111" font-family="Helvetica, Arial">onboard_date</text>
+<rect x="520" y="100" width="250" height="200" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M520 108 Q520 100 528 100 L762 100 Q770 100 770 108 L770 136 L520 136 Z" fill="#222222"/>
+<text x="645.0" y="124" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PORTFOLIO</text>
+<text x="530" y="157" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">ID</text>
+<text x="578" y="157" font-size="14" fill="#111" font-family="Helvetica, Arial">portfolio_id</text>
+<rect x="521" y="162" width="248" height="22" fill="#EFEFEF"/>
+<text x="578" y="179" font-size="14" fill="#111" font-family="Helvetica, Arial">portfolio_name</text>
+<text x="578" y="201" font-size="14" fill="#111" font-family="Helvetica, Arial">account_type</text>
+<rect x="521" y="206" width="248" height="22" fill="#EFEFEF"/>
+<text x="578" y="223" font-size="14" fill="#111" font-family="Helvetica, Arial">strategy</text>
+<text x="578" y="245" font-size="14" fill="#111" font-family="Helvetica, Arial">fee_pct</text>
+<rect x="521" y="250" width="248" height="22" fill="#EFEFEF"/>
+<text x="578" y="267" font-size="14" fill="#111" font-family="Helvetica, Arial">open_date</text>
+<text x="578" y="289" font-size="14" fill="#111" font-family="Helvetica, Arial">status</text>
+<rect x="1000" y="100" width="250" height="222" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M1000 108 Q1000 100 1008 100 L1242 100 Q1250 100 1250 108 L1250 136 L1000 136 Z" fill="#222222"/>
+<text x="1125.0" y="124" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PORTFOLIO MANAGER</text>
+<text x="1010" y="157" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">ID</text>
+<text x="1058" y="157" font-size="14" fill="#111" font-family="Helvetica, Arial">manager_id</text>
+<rect x="1001" y="162" width="248" height="22" fill="#EFEFEF"/>
+<text x="1058" y="179" font-size="14" fill="#111" font-family="Helvetica, Arial">first_name</text>
+<text x="1058" y="201" font-size="14" fill="#111" font-family="Helvetica, Arial">last_name</text>
+<rect x="1001" y="206" width="248" height="22" fill="#EFEFEF"/>
+<text x="1058" y="223" font-size="14" fill="#111" font-family="Helvetica, Arial">email</text>
+<text x="1058" y="245" font-size="14" fill="#111" font-family="Helvetica, Arial">desk</text>
+<rect x="1001" y="250" width="248" height="22" fill="#EFEFEF"/>
+<text x="1058" y="267" font-size="14" fill="#111" font-family="Helvetica, Arial">hire_date</text>
+<text x="1058" y="289" font-size="14" fill="#111" font-family="Helvetica, Arial">base_salary</text>
+<rect x="1001" y="294" width="248" height="22" fill="#EFEFEF"/>
+<text x="1058" y="311" font-size="14" fill="#111" font-family="Helvetica, Arial">profit_share_pct</text>
+<rect x="40" y="500" width="250" height="134" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M40 508 Q40 500 48 500 L282 500 Q290 500 290 508 L290 536 L40 536 Z" fill="#222222"/>
+<text x="165.0" y="524" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">CASH FLOW</text>
+<text x="50" y="557" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">ID</text>
+<text x="98" y="557" font-size="14" fill="#111" font-family="Helvetica, Arial">flow_id</text>
+<rect x="41" y="562" width="248" height="22" fill="#EFEFEF"/>
+<text x="98" y="579" font-size="14" fill="#111" font-family="Helvetica, Arial">flow_date</text>
+<text x="98" y="601" font-size="14" fill="#111" font-family="Helvetica, Arial">flow_type</text>
+<rect x="41" y="606" width="248" height="22" fill="#EFEFEF"/>
+<text x="98" y="623" font-size="14" fill="#111" font-family="Helvetica, Arial">amount</text>
+<rect x="520" y="500" width="250" height="200" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M520 508 Q520 500 528 500 L762 500 Q770 500 770 508 L770 536 L520 536 Z" fill="#222222"/>
+<text x="645.0" y="524" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">TRADE</text>
+<text x="530" y="557" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">ID</text>
+<text x="578" y="557" font-size="14" fill="#111" font-family="Helvetica, Arial">trade_id</text>
+<rect x="521" y="562" width="248" height="22" fill="#EFEFEF"/>
+<text x="578" y="579" font-size="14" fill="#111" font-family="Helvetica, Arial">confirmation_no</text>
+<text x="578" y="601" font-size="14" fill="#111" font-family="Helvetica, Arial">trade_date</text>
+<rect x="521" y="606" width="248" height="22" fill="#EFEFEF"/>
+<text x="578" y="623" font-size="14" fill="#111" font-family="Helvetica, Arial">side</text>
+<text x="578" y="645" font-size="14" fill="#111" font-family="Helvetica, Arial">quantity</text>
+<rect x="521" y="650" width="248" height="22" fill="#EFEFEF"/>
+<text x="578" y="667" font-size="14" fill="#111" font-family="Helvetica, Arial">price</text>
+<text x="578" y="689" font-size="14" fill="#111" font-family="Helvetica, Arial">settlement_date</text>
+<rect x="280" y="840" width="250" height="200" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M280 848 Q280 840 288 840 L522 840 Q530 840 530 848 L530 876 L280 876 Z" fill="#222222"/>
+<text x="405.0" y="864" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">SECURITY</text>
+<text x="290" y="897" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">ID</text>
+<text x="338" y="897" font-size="14" fill="#111" font-family="Helvetica, Arial">security_id</text>
+<rect x="281" y="902" width="248" height="22" fill="#EFEFEF"/>
+<text x="338" y="919" font-size="14" fill="#111" font-family="Helvetica, Arial">ticker</text>
+<text x="338" y="941" font-size="14" fill="#111" font-family="Helvetica, Arial">security_name</text>
+<rect x="281" y="946" width="248" height="22" fill="#EFEFEF"/>
+<text x="338" y="963" font-size="14" fill="#111" font-family="Helvetica, Arial">asset_class</text>
+<text x="338" y="985" font-size="14" fill="#111" font-family="Helvetica, Arial">sector</text>
+<rect x="281" y="990" width="248" height="22" fill="#EFEFEF"/>
+<text x="338" y="1007" font-size="14" fill="#111" font-family="Helvetica, Arial">current_price</text>
+<text x="338" y="1029" font-size="14" fill="#111" font-family="Helvetica, Arial">price_date</text>
+<rect x="760" y="840" width="250" height="156" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M760 848 Q760 840 768 840 L1002 840 Q1010 840 1010 848 L1010 876 L760 876 Z" fill="#222222"/>
+<text x="885.0" y="864" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">BROKER</text>
+<text x="770" y="897" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">ID</text>
+<text x="818" y="897" font-size="14" fill="#111" font-family="Helvetica, Arial">broker_id</text>
+<rect x="761" y="902" width="248" height="22" fill="#EFEFEF"/>
+<text x="818" y="919" font-size="14" fill="#111" font-family="Helvetica, Arial">broker_name</text>
+<text x="818" y="941" font-size="14" fill="#111" font-family="Helvetica, Arial">contact_email</text>
+<rect x="761" y="946" width="248" height="22" fill="#EFEFEF"/>
+<text x="818" y="963" font-size="14" fill="#111" font-family="Helvetica, Arial">commission_rate</text>
+<text x="818" y="985" font-size="14" fill="#111" font-family="Helvetica, Arial">is_active</text>
+<rect x="985" y="530" width="300" height="118" rx="8" fill="#FFFFFF" stroke="#999"/>
+<text x="999" y="554" font-size="14" fill="#222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">Multiplicity</text>
+<text x="999" y="576" font-size="13" fill="#222" font-family="Helvetica, Arial">1 = exactly one</text>
+<text x="999" y="595" font-size="13" fill="#222" font-family="Helvetica, Arial">0..* = zero or more</text>
+<text x="999" y="614" font-size="13" fill="#222" font-family="Helvetica, Arial">1..* = one or more</text>
+<text x="999" y="633" font-size="13" fill="#222" font-family="Helvetica, Arial">Read each end as "how many of this box"</text>
+</svg>

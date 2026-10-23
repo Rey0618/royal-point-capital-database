@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2660" height="2210" viewBox="0 70 1330 1105">
+<rect y="70" width="1330" height="1175" fill="#FFFFFF"/>
+<line x1="280.0" y1="180.0" x2="370.0" y2="180.0" stroke="#222222" stroke-width="1.8"/>
+<text x="306.0" y="171.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="344.0" y="171.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1..*</text>
+<line x1="710.0" y1="180.0" x2="620.0" y2="180.0" stroke="#222222" stroke-width="1.8"/>
+<text x="684.0" y="171.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="646.0" y="171.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1..*</text>
+<line x1="1050.0" y1="180.0" x2="960.0" y2="180.0" stroke="#222222" stroke-width="1.8"/>
+<text x="1024.0" y="171.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="986.0" y="171.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<line x1="495.0" y1="234.0" x2="495.0" y2="470.0" stroke="#222222" stroke-width="1.8"/>
+<text x="509.0" y="283.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="509.0" y="431.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<line x1="835.0" y1="322.0" x2="835.0" y2="470.0" stroke="#222222" stroke-width="1.8"/>
+<text x="849.0" y="353.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="849.0" y="449.0" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<line x1="605.0" y1="880.0" x2="785.0" y2="736.0" stroke="#222222" stroke-width="1.8"/>
+<text x="630.6" y="846.6" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="741.9" y="757.6" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<line x1="1125.0" y1="880.0" x2="897.5" y2="736.0" stroke="#222222" stroke-width="1.8"/>
+<text x="1095.3" y="849.6" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">1</text>
+<text x="942.2" y="752.7" font-size="15" fill="#111" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">0..*</text>
+<rect x="30" y="100" width="250" height="200" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M30 108 Q30 100 38 100 L272 100 Q280 100 280 108 L280 136 L30 136 Z" fill="#222222"/>
+<text x="155.0" y="124" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">client</text>
+<text x="40" y="157" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="88" y="157" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">client_id</text>
+<text x="270" y="157" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="31" y="162" width="248" height="22" fill="#EFEFEF"/>
+<text x="88" y="179" font-size="14" fill="#111" font-family="Helvetica, Arial">first_name</text>
+<text x="270" y="179" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="88" y="201" font-size="14" fill="#111" font-family="Helvetica, Arial">last_name</text>
+<text x="270" y="201" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="31" y="206" width="248" height="22" fill="#EFEFEF"/>
+<text x="40" y="223" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">UQ</text>
+<text x="88" y="223" font-size="14" fill="#111" font-family="Helvetica, Arial">email</text>
+<text x="270" y="223" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="88" y="245" font-size="14" fill="#111" font-family="Helvetica, Arial">date_of_birth</text>
+<text x="270" y="245" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="31" y="250" width="248" height="22" fill="#EFEFEF"/>
+<text x="88" y="267" font-size="14" fill="#111" font-family="Helvetica, Arial">risk_profile</text>
+<text x="270" y="267" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="88" y="289" font-size="14" fill="#111" font-family="Helvetica, Arial">onboard_date</text>
+<text x="270" y="289" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="370" y="100" width="250" height="134" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M370 108 Q370 100 378 100 L612 100 Q620 100 620 108 L620 136 L370 136 Z" fill="#222222"/>
+<text x="495.0" y="124" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">portfolio_owner</text>
+<text x="380" y="157" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK FK</text>
+<text x="428" y="157" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">portfolio_id</text>
+<text x="610" y="157" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="371" y="162" width="248" height="22" fill="#EFEFEF"/>
+<text x="380" y="179" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK FK</text>
+<text x="428" y="179" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">client_id</text>
+<text x="610" y="179" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<text x="428" y="201" font-size="14" fill="#111" font-family="Helvetica, Arial">ownership_pct</text>
+<text x="610" y="201" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<rect x="371" y="206" width="248" height="22" fill="#EFEFEF"/>
+<text x="428" y="223" font-size="14" fill="#111" font-family="Helvetica, Arial">added_date</text>
+<text x="610" y="223" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="710" y="100" width="250" height="222" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M710 108 Q710 100 718 100 L952 100 Q960 100 960 108 L960 136 L710 136 Z" fill="#222222"/>
+<text x="835.0" y="124" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">portfolio</text>
+<text x="720" y="157" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="768" y="157" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">portfolio_id</text>
+<text x="950" y="157" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="711" y="162" width="248" height="22" fill="#EFEFEF"/>
+<text x="720" y="179" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK</text>
+<text x="768" y="179" font-size="14" fill="#111" font-family="Helvetica, Arial">manager_id</text>
+<text x="950" y="179" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<text x="768" y="201" font-size="14" fill="#111" font-family="Helvetica, Arial">portfolio_name</text>
+<text x="950" y="201" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="711" y="206" width="248" height="22" fill="#EFEFEF"/>
+<text x="768" y="223" font-size="14" fill="#111" font-family="Helvetica, Arial">account_type</text>
+<text x="950" y="223" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="768" y="245" font-size="14" fill="#111" font-family="Helvetica, Arial">strategy</text>
+<text x="950" y="245" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="711" y="250" width="248" height="22" fill="#EFEFEF"/>
+<text x="768" y="267" font-size="14" fill="#111" font-family="Helvetica, Arial">fee_pct</text>
+<text x="950" y="267" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<text x="768" y="289" font-size="14" fill="#111" font-family="Helvetica, Arial">open_date</text>
+<text x="950" y="289" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="711" y="294" width="248" height="22" fill="#EFEFEF"/>
+<text x="768" y="311" font-size="14" fill="#111" font-family="Helvetica, Arial">status</text>
+<text x="950" y="311" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="1050" y="100" width="250" height="222" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M1050 108 Q1050 100 1058 100 L1292 100 Q1300 100 1300 108 L1300 136 L1050 136 Z" fill="#222222"/>
+<text x="1175.0" y="124" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">portfolio_manager</text>
+<text x="1060" y="157" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="1108" y="157" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">manager_id</text>
+<text x="1290" y="157" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="1051" y="162" width="248" height="22" fill="#EFEFEF"/>
+<text x="1108" y="179" font-size="14" fill="#111" font-family="Helvetica, Arial">first_name</text>
+<text x="1290" y="179" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="1108" y="201" font-size="14" fill="#111" font-family="Helvetica, Arial">last_name</text>
+<text x="1290" y="201" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="1051" y="206" width="248" height="22" fill="#EFEFEF"/>
+<text x="1060" y="223" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">UQ</text>
+<text x="1108" y="223" font-size="14" fill="#111" font-family="Helvetica, Arial">email</text>
+<text x="1290" y="223" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="1108" y="245" font-size="14" fill="#111" font-family="Helvetica, Arial">desk</text>
+<text x="1290" y="245" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="1051" y="250" width="248" height="22" fill="#EFEFEF"/>
+<text x="1108" y="267" font-size="14" fill="#111" font-family="Helvetica, Arial">hire_date</text>
+<text x="1290" y="267" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="1108" y="289" font-size="14" fill="#111" font-family="Helvetica, Arial">base_salary</text>
+<text x="1290" y="289" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<rect x="1051" y="294" width="248" height="22" fill="#EFEFEF"/>
+<text x="1108" y="311" font-size="14" fill="#111" font-family="Helvetica, Arial">profit_share_pct</text>
+<text x="1290" y="311" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<rect x="370" y="470" width="250" height="178" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M370 478 Q370 470 378 470 L612 470 Q620 470 620 478 L620 506 L370 506 Z" fill="#222222"/>
+<text x="495.0" y="494" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">cash_flow</text>
+<text x="380" y="527" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="428" y="527" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">flow_id</text>
+<text x="610" y="527" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="371" y="532" width="248" height="22" fill="#EFEFEF"/>
+<text x="380" y="549" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK*</text>
+<text x="428" y="549" font-size="14" fill="#111" font-family="Helvetica, Arial">portfolio_id</text>
+<text x="610" y="549" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<text x="380" y="571" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK*</text>
+<text x="428" y="571" font-size="14" fill="#111" font-family="Helvetica, Arial">client_id</text>
+<text x="610" y="571" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="371" y="576" width="248" height="22" fill="#EFEFEF"/>
+<text x="428" y="593" font-size="14" fill="#111" font-family="Helvetica, Arial">flow_date</text>
+<text x="610" y="593" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="428" y="615" font-size="14" fill="#111" font-family="Helvetica, Arial">flow_type</text>
+<text x="610" y="615" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="371" y="620" width="248" height="22" fill="#EFEFEF"/>
+<text x="428" y="637" font-size="14" fill="#111" font-family="Helvetica, Arial">amount</text>
+<text x="610" y="637" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<rect x="710" y="470" width="250" height="266" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M710 478 Q710 470 718 470 L952 470 Q960 470 960 478 L960 506 L710 506 Z" fill="#222222"/>
+<text x="835.0" y="494" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">trade</text>
+<text x="720" y="527" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="768" y="527" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">trade_id</text>
+<text x="950" y="527" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="711" y="532" width="248" height="22" fill="#EFEFEF"/>
+<text x="720" y="549" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">UQ</text>
+<text x="768" y="549" font-size="14" fill="#111" font-family="Helvetica, Arial">confirmation_no</text>
+<text x="950" y="549" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="720" y="571" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK</text>
+<text x="768" y="571" font-size="14" fill="#111" font-family="Helvetica, Arial">portfolio_id</text>
+<text x="950" y="571" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="711" y="576" width="248" height="22" fill="#EFEFEF"/>
+<text x="720" y="593" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK</text>
+<text x="768" y="593" font-size="14" fill="#111" font-family="Helvetica, Arial">security_id</text>
+<text x="950" y="593" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<text x="720" y="615" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK</text>
+<text x="768" y="615" font-size="14" fill="#111" font-family="Helvetica, Arial">broker_id</text>
+<text x="950" y="615" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="711" y="620" width="248" height="22" fill="#EFEFEF"/>
+<text x="768" y="637" font-size="14" fill="#111" font-family="Helvetica, Arial">trade_date</text>
+<text x="950" y="637" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="768" y="659" font-size="14" fill="#111" font-family="Helvetica, Arial">side</text>
+<text x="950" y="659" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="711" y="664" width="248" height="22" fill="#EFEFEF"/>
+<text x="768" y="681" font-size="14" fill="#111" font-family="Helvetica, Arial">quantity</text>
+<text x="950" y="681" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<text x="768" y="703" font-size="14" fill="#111" font-family="Helvetica, Arial">price</text>
+<text x="950" y="703" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<rect x="711" y="708" width="248" height="22" fill="#EFEFEF"/>
+<text x="768" y="725" font-size="14" fill="#111" font-family="Helvetica, Arial">settlement_date</text>
+<text x="950" y="725" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="430" y="880" width="250" height="200" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M430 888 Q430 880 438 880 L672 880 Q680 880 680 888 L680 916 L430 916 Z" fill="#222222"/>
+<text x="555.0" y="904" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">security</text>
+<text x="440" y="937" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="488" y="937" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">security_id</text>
+<text x="670" y="937" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="431" y="942" width="248" height="22" fill="#EFEFEF"/>
+<text x="440" y="959" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">UQ</text>
+<text x="488" y="959" font-size="14" fill="#111" font-family="Helvetica, Arial">ticker</text>
+<text x="670" y="959" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="488" y="981" font-size="14" fill="#111" font-family="Helvetica, Arial">security_name</text>
+<text x="670" y="981" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="431" y="986" width="248" height="22" fill="#EFEFEF"/>
+<text x="488" y="1003" font-size="14" fill="#111" font-family="Helvetica, Arial">asset_class</text>
+<text x="670" y="1003" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="488" y="1025" font-size="14" fill="#111" font-family="Helvetica, Arial">sector</text>
+<text x="670" y="1025" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="431" y="1030" width="248" height="22" fill="#EFEFEF"/>
+<text x="488" y="1047" font-size="14" fill="#111" font-family="Helvetica, Arial">current_price</text>
+<text x="670" y="1047" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<text x="488" y="1069" font-size="14" fill="#111" font-family="Helvetica, Arial">price_date</text>
+<text x="670" y="1069" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="1050" y="880" width="250" height="156" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.6"/>
+<path d="M1050 888 Q1050 880 1058 880 L1292 880 Q1300 880 1300 888 L1300 916 L1050 916 Z" fill="#222222"/>
+<text x="1175.0" y="904" font-size="16" fill="#FFFFFF" text-anchor="middle" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">broker</text>
+<text x="1060" y="937" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="1108" y="937" font-size="14" fill="#111" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">broker_id</text>
+<text x="1290" y="937" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="1051" y="942" width="248" height="22" fill="#EFEFEF"/>
+<text x="1060" y="959" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">UQ</text>
+<text x="1108" y="959" font-size="14" fill="#111" font-family="Helvetica, Arial">broker_name</text>
+<text x="1290" y="959" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<text x="1108" y="981" font-size="14" fill="#111" font-family="Helvetica, Arial">contact_email</text>
+<text x="1290" y="981" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">TEXT</text>
+<rect x="1051" y="986" width="248" height="22" fill="#EFEFEF"/>
+<text x="1108" y="1003" font-size="14" fill="#111" font-family="Helvetica, Arial">commission_rate</text>
+<text x="1290" y="1003" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">REAL</text>
+<text x="1108" y="1025" font-size="14" fill="#111" font-family="Helvetica, Arial">is_active</text>
+<text x="1290" y="1025" font-size="12" fill="#555555" text-anchor="end" font-family="Helvetica, Arial">INTEGER</text>
+<rect x="30" y="880" width="330" height="140" rx="8" fill="#FFFFFF" stroke="#999"/>
+<text x="44" y="904" font-size="14" fill="#222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">Keys</text>
+<text x="44" y="926" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK</text>
+<text x="98" y="926" font-size="13" fill="#222" font-family="Helvetica, Arial">primary key</text>
+<text x="44" y="945" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK</text>
+<text x="98" y="945" font-size="13" fill="#222" font-family="Helvetica, Arial">foreign key</text>
+<text x="44" y="964" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">PK FK</text>
+<text x="98" y="964" font-size="13" fill="#222" font-family="Helvetica, Arial">part of a composite primary key</text>
+<text x="44" y="983" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">FK*</text>
+<text x="98" y="983" font-size="13" fill="#222" font-family="Helvetica, Arial">one composite FK: (portfolio_id, client_id)</text>
+<text x="44" y="1002" font-size="12" fill="#222222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">UQ</text>
+<text x="98" y="1002" font-size="13" fill="#222" font-family="Helvetica, Arial">unique</text>
+<rect x="30" y="1035" width="300" height="118" rx="8" fill="#FFFFFF" stroke="#999"/>
+<text x="44" y="1059" font-size="14" fill="#222" font-family="Helvetica-Bold, Arial-BoldMT, Helvetica">Multiplicity</text>
+<text x="44" y="1081" font-size="13" fill="#222" font-family="Helvetica, Arial">1 = exactly one</text>
+<text x="44" y="1100" font-size="13" fill="#222" font-family="Helvetica, Arial">0..* = zero or more</text>
+<text x="44" y="1119" font-size="13" fill="#222" font-family="Helvetica, Arial">1..* = one or more</text>
+<text x="44" y="1138" font-size="13" fill="#222" font-family="Helvetica, Arial">Read each end as "how many of this box"</text>
+</svg>
