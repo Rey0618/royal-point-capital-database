@@ -3,7 +3,7 @@
 **Reynaldo Garcia**  
 Hult International Business School  
 BAN-0301: Managing Structured Data with SQL  
-Instructor: [Instructor name]  
+Instructor: Todd Lombardo
 October 2026
 
 > Formatted version: [PDF](Royal_Point_Capital_A1.1_Report.pdf) · [Word](Royal_Point_Capital_A1.1_Report.docx). Logical data dictionary: [Excel workbook](../data_dictionary/Royal_Point_Capital_Logical_Data_Dictionary.xlsx).
